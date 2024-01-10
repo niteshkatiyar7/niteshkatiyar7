@@ -89,7 +89,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> </p>
 
-  <p><img width="410" height="200" align="left" justify="center" src="https://github-readme-stats.vercel.app/api?username=niteshkatiyar7&show_icons=true&locale=en" alt="niteshkatiyar" /></p>
+  <p><img width="410" height="200" align="left" justify="center" src="https://github-readme-stats.vercel.app/api?username=niteshkatiyar7&show_icons=true&locale=en" alt="NiteshKatiyar" /></p>
 <p ><img width="414" height="200" align="center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkatiyar7&" alt="niteshkatiyar7" /></p>
 
 <h3 align="center">Connect with me:</h3>
