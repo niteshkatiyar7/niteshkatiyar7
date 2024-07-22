@@ -96,4 +96,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkatiyar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyansh-sachan-73b875245/" height="40" width="50" /></a>
   <a href="https://www.instagram.com/sociopath_thor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" /></a> 
-  <a href="https://leetcode.com/niteshkatiyar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shreyanshsachan/" height="40" width="50" /></a>
+  <a href="https://leetcode.com/niteshkatiyar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/niteshkatiyar7/" height="40" width="50" /></a>
